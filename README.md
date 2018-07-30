@@ -11,7 +11,7 @@ If we define less:
 }
 ```
 
-Which will not work if we use browser rendering less.
+Which will not work if we use browser rendering less. (It's OK if we use `lessc` to compile the less file to css, and use the css file in html)
 
 Try it yourself:
 
