@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "less": "^3.8.0"
+    "less": "3.8.0"
   },
   "devDependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "0.11.1"
   }
 }

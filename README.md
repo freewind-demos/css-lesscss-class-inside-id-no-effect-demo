@@ -1,7 +1,19 @@
-Render LessCSS in Browser Demo
-==============================
+LessCSS Issue about Class inside Id Demo
+==================================================
 
-Render `less` files in browser, without converting it to css.
+If we define less:
+
+```
+#main {
+    .hello2 {
+        border: 3px solid blue;
+    }
+}
+```
+
+Which will not work if we use browser rendering less.
+
+Try it yourself:
 
 ```
 npm install
